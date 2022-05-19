@@ -1,6 +1,6 @@
 #include <algorithm>
 #include <iostream>
-#include <climits>
+
 using namespace std;
 
 template <typename Object>
